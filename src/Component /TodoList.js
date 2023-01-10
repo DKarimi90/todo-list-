@@ -1,6 +1,16 @@
+import TodoItem from "./TodoItem";
+
 function TodoList(){
     return(
-        <ul></ul>
+        <div>
+            <ul>
+            <li>Oranges</li>
+            <li>Mangoes</li>
+            <li>Lemons</li>
+        </ul>
+        <TodoItem />
+        </div>
+        
     )
 
 }

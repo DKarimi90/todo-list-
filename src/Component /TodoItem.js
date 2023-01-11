@@ -1,6 +1,9 @@
 function TodoItem(){
     return (
-        <div></div>
+        <div>
+            <h3>Name</h3>
+            <p>lorem ipsum</p>
+        </div>
     )
 }
 

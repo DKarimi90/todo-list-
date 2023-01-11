@@ -1,8 +1,9 @@
 import React from 'react'
 
-export default function toDoAnalytics() {
+function toDoAnalytics() {
   return (
-    <div>toDoAnalytics</div>
+    <div></div>
   )
 }
+export default toDoAnalytics; 
 
